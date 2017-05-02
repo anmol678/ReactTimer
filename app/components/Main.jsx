@@ -4,7 +4,7 @@ var Nav = require('Nav');
 var Main = (props) => {
   return (
     <div>
-    <Nav/>
+      <Nav/>
       <div>
         <div>
           <p>Main.jsx Rendered</p>
@@ -13,6 +13,6 @@ var Main = (props) => {
       </div>
     </div>
   );
-};
+}
 
 module.exports = Main;
